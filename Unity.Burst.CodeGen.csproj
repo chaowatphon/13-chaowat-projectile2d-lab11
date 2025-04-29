@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5e8d8559-b165-0c6e-3a55-d360a35302a9}</ProjectGuid>
+    <ProjectGuid>{9c06d265-cab1-19ca-94e8-07deac42bf22}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -316,19 +316,19 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Rocks">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Mdb">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -711,7 +711,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{41a709eb-2de7-3e92-58a8-4c6d01eb4afd}</Project>
+      <Project>{5a955d84-29f3-bf86-0f14-1bcb4e8548ab}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
   </ItemGroup>

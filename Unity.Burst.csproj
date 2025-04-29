@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{41a709eb-2de7-3e92-58a8-4c6d01eb4afd}</ProjectGuid>
+    <ProjectGuid>{5a955d84-29f3-bf86-0f14-1bcb4e8548ab}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -365,7 +365,7 @@
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Unsafe">
-     <HintPath>D:\Unity\Lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.Unsafe.dll</HintPath>
+     <HintPath>D:\Unity\13-chaowat-projectile2d-lab11\Library\PackageCache\com.unity.burst@1.8.10\Unity.Burst.Unsafe.dll</HintPath>
      </Reference>
      <Reference Include="netstandard">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -736,11 +736,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{0364346d-ad4f-2fb4-e594-423c9fbbb792}</Project>
+      <Project>{d77b6e11-669a-53ae-c308-bc33fd8e1065}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{227ae807-9640-c9cd-09a2-485494cc1550}</Project>
+      <Project>{3b334246-3b62-fd71-d83a-d72de28cd75d}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
